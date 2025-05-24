@@ -23,5 +23,3 @@ A sleek and minimal React app that fetches and displays a random inspirational q
 
 ---
 
-## 📦 Installation
-
